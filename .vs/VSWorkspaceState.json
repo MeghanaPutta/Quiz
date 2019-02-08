@@ -3,7 +3,9 @@
     "",
     "\\src",
     "\\src\\Web",
-    "\\src\\Web\\Views"
+    "\\src\\Web\\Views",
+    "\\tests",
+    "\\tests\\UnitTests"
   ],
   "SelectedNode": "\\Quiz.sln",
   "PreviewInSolutionExplorer": false
