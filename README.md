@@ -1,5 +1,5 @@
 # Quiz
 
-About my app : I've created a MVC project that interacts with the user, adding an additional controller(diarycontroller) along with actions(text, json, html and view).
+About my app : I've created a simple client-side MVC project that interacts with the user.
 
-![app](https://github.com/MeghanaPutta/Quiz/blob/master/app.png)
+![app](https://github.com/MeghanaPutta/Quiz/blob/master/quiz.png)
