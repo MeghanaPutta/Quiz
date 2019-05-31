@@ -5,6 +5,19 @@
     <AspNetCoreHostingModel>InProcess</AspNetCoreHostingModel>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="Views\Diary\Class.cs" />
+    <Compile Remove="Views\Diary\CodeFile.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Remove="Views\Diary\Resource.resx" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="Views\Diary\htmlpage.html" />
+  </ItemGroup>
+
 
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.App" />

@@ -24,6 +24,14 @@ namespace dotnet_mvc_sample.Controllers
         {
             return Content("<html> <body> <h1> This is Htmlmethod </h1> </body> </html>","text/html");
         }
+        public IActionResult Quizmethod()
+        {
+
+
+            return View();
+
+
+        }
 
         public IActionResult Viewmethod()
         {

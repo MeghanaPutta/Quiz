@@ -8,6 +8,6 @@
     "\\Views\\Shared",
     "\\wwwroot"
   ],
-  "SelectedNode": "\\Controllers\\DiaryController.cs",
+  "SelectedNode": "\\Controllers\\HomeController.cs",
   "PreviewInSolutionExplorer": false
 }
